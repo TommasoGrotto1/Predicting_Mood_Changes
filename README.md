@@ -1,6 +1,6 @@
 # Predicting Mood Changes
 
-This repository contains the complete workflow for a project investigating whether short-term mood changes can be predicted using smartphone-collected behavioral data and repeated self-reported mood assessments. The project was part of the **Studies on Human Behaviour course** and combines data cleaning, feature engineering, and machine learning modelling to identify behavioral markers of mood fluctuations.
+This repository contains the complete workflow for a project investigating whether short-term mood changes can be predicted using smartphone-collected behavioral data and repeated self-reported mood assessments. The project was part of the **Studies on Human Behaviour** course and combines data cleaning, feature engineering, and machine learning modelling to identify behavioral markers of mood fluctuations.
 
 ---
 
@@ -9,9 +9,9 @@ This repository contains the complete workflow for a project investigating wheth
 ```
 Predicting_Mood_Changes/
 │
-├── SHB - Predicting mood changes.pdf # Final project report
-├── SHB_cleaning.ipynb # Notebook for data cleaning & preprocessing
-└── SHB_models.ipynb # Notebook with machine learning models
+├── Predicting mood changes.pdf # Final project report
+├── Cleaning.ipynb # Notebook for data cleaning & preprocessing
+└── Models.ipynb # Notebook with machine learning models
 ```
 
 ---
@@ -29,7 +29,7 @@ The project explores the feasibility of predicting mood dynamics using statistic
 
 ---
 
-## Data Cleaning (`SHB_cleaning.ipynb`)
+## Data Cleaning
 
 This notebook performs essential preprocessing steps:
 
@@ -43,7 +43,7 @@ The output is a structured dataset ready for model training.
 
 ---
 
-## Machine Learning Models (`SHB_models.ipynb`)
+## Machine Learning Models
 
 This notebook includes:
 
@@ -59,7 +59,7 @@ The results highlight which behavioral signals are most informative for predicti
 
 ## Project Report
 
-The PDF file **“SHB – Predicting mood changes.pdf”** includes:
+The PDF file **“Predicting mood changes.pdf”** includes:
 
 - Theoretical background  
 - Data description  
