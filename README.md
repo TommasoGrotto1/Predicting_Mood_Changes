@@ -1,6 +1,6 @@
 # Predicting Mood Changes
 
-This repository contains the complete workflow for a project investigating whether short-term mood changes can be predicted using smartphone-collected behavioral data and repeated self-reported mood assessments. The project combines data cleaning, feature engineering, and machine learning modelling to identify behavioral markers of mood fluctuations.
+This repository contains the complete workflow for a project investigating whether short-term mood changes can be predicted using smartphone-collected behavioral data and repeated self-reported mood assessments. The project was part of the **Studies on Human Behaviour course** and combines data cleaning, feature engineering, and machine learning modelling to identify behavioral markers of mood fluctuations.
 
 ---
 
